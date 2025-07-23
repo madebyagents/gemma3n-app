@@ -1,4 +1,4 @@
-# ai_gemma3n_app
+# Gemma 3N App
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.8.1-blue?logo=flutter)](https://flutter.dev/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
